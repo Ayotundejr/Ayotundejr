@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Emmanuel Ayotunde
+# 👋 Hi, I'm Emmanuel Ayòtúndé
 
 ### ⚙️ Mechanical Engineer | 📊 Data Analyst | 💻Technology & Operations 
 
