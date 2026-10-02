@@ -6,7 +6,10 @@
 
  Build with purpose. Learn continuously. Let the work speak.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1800&color=36BCF7&center=true&vCenter=true&width=650&lines=Data driven+solutions;Building+practical+systems;SQL+%7C+Excel+%7C+Power+BI" alt="Typing SVG" />
+<p align="center">
+ 
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=600&height=50&lines=Data driven+solutions;Building+practical+systems;SQL+%7C+Excel+%7C+Power+BI" alt="Typing SVG" />
+</p>
 
 </div>
 
