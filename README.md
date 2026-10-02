@@ -35,7 +35,7 @@ I'm a Mechanical Engineer with a growing focus on data, digital systems, and tec
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge\&logo=database\&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge\&logo=mathworks\&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-9C2007?style=for-the-badge\&logo=mathworks\&logoColor=white)
 
 ### 📊 Data & Analytics
 
