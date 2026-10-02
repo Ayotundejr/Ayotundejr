@@ -56,6 +56,9 @@ I'm a Mechanical Engineer with a growing focus on data, digital systems, and tec
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![EAM](https://img.shields.io/badge/EAM-Enterprise%20Asset%20Management-555555?style=for-the-badge)
+![MRP](https://img.shields.io/badge/MRP-Material%20Requirements%20Planning-555555?style=for-the-badge)
+![ERP](https://img.shields.io/badge/ERP-Enterprise%20Resource%20Planning-555555?style=for-the-badge)
 
 ---
 
@@ -70,7 +73,7 @@ I'm a Mechanical Engineer with a growing focus on data, digital systems, and tec
 
 ## ⭐ Areas of Interest
 
-|  | |
+|Areas  |    Interest Level|
 |----------|----------|
 | Data Analytics | ⭐⭐⭐⭐⭐ |
 | Business Intelligence | ⭐⭐⭐⭐ |
